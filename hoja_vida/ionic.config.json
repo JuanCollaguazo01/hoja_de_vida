@@ -1,0 +1,7 @@
+{
+  "name": "hoja_vida",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
